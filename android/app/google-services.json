@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490548502173",
+    "project_id": "quizmaker-78399",
+    "storage_bucket": "quizmaker-78399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490548502173:android:50ab941fa8d3e96cb2fe74",
+        "android_client_info": {
+          "package_name": "com.example.quiz_maker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490548502173-l8r1d15jrbn6bmsc0fb3hmdpsj5cmmjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jumxouoKVhN2xNnzoS5EV0oIVl24Wfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490548502173-l8r1d15jrbn6bmsc0fb3hmdpsj5cmmjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
