@@ -12,19 +12,19 @@ Used firebase for database storage as well as user authentication.
 Below are few screenshots of the application-
 
 ## Sign-in page
-![Alt text]<img src="/screenshots/signin.jpg" width="400" height="790"/>
+![SignIn]<img src="/screenshots/signin.jpg" width="400" height="790"/>
 ## Sign-up page
-![Alt text](/screenshots/signup.jpg "Optional Title")
+![SignUp]<img src="/screenshots/signup.jpg" width="400" height="790"/>
 ## Creating a new Quiz
-![Alt text](/screenshots/quiz_creation.jpg)
+![New_Quiz]<img src="/screenshots/quiz_creation.jpg" width="400" height="790"/>
 ## Adding questions to the Quiz
-![Alt text](/screenshots/questions.jpg)
+![Add_Questions]<img src="/screenshots/questions.jpg" width="400" height="790"/>
 ## Preloaded Quizzes page
-![Alt text](/screenshots/loaded_question.jpg)
+![Preloaded_Quiz]<img src="/screenshots/loaded_quiz.jpg" width="400" height="790"/>
 ## Playing/Attempting Quizzes created by other users
-![Alt text](/screenshots/answer.jpg)
+![Answer]<img src="/screenshots/answer.jpg" width="400" height="790"/>
 ## Results of the Quiz
-![Alt text](/screenshots/result.jpg)
+![Result]<img src="/screenshots/result.jpg" width="400" height="790"/>
 
 
 A few resources to get you started if this is your first Flutter project:
