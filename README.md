@@ -12,7 +12,7 @@ Used firebase for database storage as well as user authentication.
 Below are few screenshots of the application-
 
 ## Sign-in page
-![Alt text](/screenshots/signin.jpg "Optional Title")
+<img src="/screenshots/signin.jpg" align="left" height="48" width="48" />
 ## Sign-up page
 ![Alt text](/screenshots/signup.jpg "Optional Title")
 ## Creating a new Quiz
